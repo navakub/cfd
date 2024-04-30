@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Windows\Desktop\study\cfd\miniproject sph\flow in pipe with external force\pipe flow foce\pipe flow foce\SPH.h(13,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows\Desktop\study\cfd\miniproject sph\flow in pipe with external force\pipe flow foce\pipe flow foce\SPH.h(17,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows\Desktop\study\cfd\miniproject sph\flow in pipe with external force\pipe flow foce\pipe flow foce\SPH.h(28,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows\Desktop\study\cfd\miniproject sph\flow in pipe with external force\pipe flow foce\pipe flow foce\SPH.h(32,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Windows\Desktop\study\cfd\miniproject sph\flow in pipe with external force\pipe flow foce\pipe flow foce\main.cpp(19,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Windows\Desktop\study\cfd\miniproject sph\flow in pipe with external force\pipe flow foce\pipe flow foce\main.cpp(20,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Windows\Desktop\study\cfd\miniproject sph\flow in pipe with external force\pipe flow foce\pipe flow foce\main.cpp(46,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  pipe flow foce.vcxproj -> C:\Users\Windows\Desktop\study\cfd\miniproject sph\flow in pipe with external force\pipe flow foce\x64\Debug\pipe flow foce.exe

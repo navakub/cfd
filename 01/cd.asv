@@ -1,0 +1,11 @@
+function cd = cd(v,d,nu)
+    re = 
+    if(v>0)
+        cd=(24*nu/(d*abs(v)));
+    elseif(v<=0)
+        cd=0;
+    end
+
+
+end
+

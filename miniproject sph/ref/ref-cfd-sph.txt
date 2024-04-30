@@ -1,0 +1,11 @@
+cfd mini-project:sph
+references
+
+- https://philip-mocz.medium.com/create-your-own-smoothed-particle-hydrodynamics-simulation-with-python-76e1cec505f1
+- https://en.wikipedia.org/wiki/Smoothed-particle_hydrodynamics
+- 
+- 
+- 
+- 
+- 
+- 
